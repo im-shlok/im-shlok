@@ -61,7 +61,7 @@ Hey there! I'm Shlok, a CS Student passionate about building scalable backend sy
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shlok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=im-shlok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=im-shlok&theme=tokyo-night&hide_border=true&area=true" width="48%" alt="Activity Graph"/>
 
