@@ -12,7 +12,7 @@
 
 # 👋 About Me
 
-Hey there! I'm Shlok, a CS Student passionate about building scalable backend systems and writing clean, efficient code.
+Hey there! I'm Shlok, a CS student who loves turning ideas into code. I enjoy building projects, solving problems, and exploring new technologies along the way.
 
     🌱 I’m currently learning DSA.
     💬 Ask me about Java, Python, C++, and databases (MySQL & MongoDB).
