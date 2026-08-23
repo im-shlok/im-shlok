@@ -55,7 +55,7 @@ Hey there! I'm Shlok, a CS Student passionate about building scalable backend sy
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=im-shlok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/im-shlok?cardType=level&theme=github-dark&preferLogin=true" width="48%" alt="GitHub Stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-shlok&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 
