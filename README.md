@@ -55,13 +55,15 @@ Hey there! I'm Shlok, a CS student who loves turning ideas into code. I enjoy bu
 
 <div align="center">
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/im-shlok?cardType=level&theme=github-dark&preferLogin=true" width="48%" alt="GitHub Stats"/>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/im-shlok?cardType=level&theme=github-dark&preferLogin=true" height="200" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=im-shlok&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=im-shlok&theme=tokyonight&hide_border=true" height="200" alt="GitHub Streak"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=im-shlok&layout=compact&langs_count=6&theme=transparent" width="48%" alt="Top Languages"/>
+<br/> 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=im-shlok&theme=tokyo-night&hide_border=true&area=true" width="48%" alt="Activity Graph"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=im-shlok&layout=compact&langs_count=6&theme=transparent" height="200" alt="Top Languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=im-shlok&theme=tokyo-night&hide_border=true&area=true" height="200" alt="Activity Graph"/>
 
 </div>
 
