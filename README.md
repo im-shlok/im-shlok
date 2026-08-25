@@ -60,7 +60,7 @@ Hey there! I'm Shlok, a CS student who loves turning ideas into code. I enjoy bu
         <img src="https://awesome-github-stats.azurewebsites.net/user-stats/im-shlok?cardType=level&theme=github-dark&preferLogin=true" alt="GitHub Stats" width="100%"/>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-shlok&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+        <img src="./profile/streak.svg" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
     <tr>
