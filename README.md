@@ -111,12 +111,6 @@ Hey there! I'm Shlok, a CS student who loves turning ideas into code. I enjoy bu
 
 <br/>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=im-shlok&label=Profile%20Views&color=58a6ff&style=for-the-badge&labelColor=1f1f1f" alt="Profile Views"/>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,14,0&height=120&section=footer" width="100%"/>
 
 <div align="center">
