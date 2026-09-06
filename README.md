@@ -63,7 +63,7 @@ Hey there! I'm Shlok, a CS student who loves turning ideas into code. I enjoy bu
         <img src="https://github-stats-extended.vercel.app/api/top-langs?username=im-shlok&layout=compact&langs_count=6&theme=transparent" alt="Top Languages" width="100%"/>
       </td>
       <td width="50%" align="center">
-        <img src="./profile/activity-graph.svg alt="Activity Graph" width="100%"/>
+        <img src="./profile/activity-graph.svg" alt="Activity Graph" width="100%"/>
       </td>
     </tr>
   </table>
