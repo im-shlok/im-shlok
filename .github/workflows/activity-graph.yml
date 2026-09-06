@@ -1,0 +1,33 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "30 0 * * *"  # Daily at 00:30 UTC, offset from the snake job so the two pushes don't race
+  workflow_dispatch:  # Allows manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@6411849745757299611a795fef822a31ca8d1d02
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=tokyo-night&hide_border=true&area=true
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: profile
+          pull: --rebase --autostash  # the snake and graph jobs both push dist/; rebase onto whichever landed first
+          message: "Update activity graph"
