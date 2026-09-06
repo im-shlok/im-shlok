@@ -2,7 +2,7 @@ name: Generate Activity Graph
 
 on:
   schedule:
-    - cron: "30 0 * * *"  # Daily at 00:30 UTC, offset from the snake job so the two pushes don't race
+    - cron: "30 0 * * *"  # Daily at 00:30 UTC; offset from other workflows that commit to main to reduce push conflicts
   workflow_dispatch:  # Allows manual trigger
   push:
     branches:
